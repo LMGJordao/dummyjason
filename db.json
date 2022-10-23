@@ -1,0 +1,34 @@
+{
+	"student": [
+		{
+			"id": "63555cb9c1f888700ef1aab8",
+			"name": "Addison Allen",
+			"completedCredits": 63.4,
+			"averageGrade": 16.1
+		},
+		{
+			"id": "63555cb9a3cadedc406c1493",
+			"name": "Jo Rosales",
+			"completedCredits": 56.9,
+			"averageGrade": 9.1
+		},
+		{
+			"id": "63555cb90b0d165f1a2c9508",
+			"name": "Kendall Stafford",
+			"completedCredits": 41.9,
+			"averageGrade": 8.2
+		},
+		{
+			"id": "63555cb9d28797109a8b9ac8",
+			"name": "Shawn Burke",
+			"completedCredits": 95.9,
+			"averageGrade": 13.1
+		},
+		{
+			"id": "63555cb9f1c0d21cad623ee0",
+			"name": "Donovan Hutchinson",
+			"completedCredits": 70.3,
+			"averageGrade": 13.8
+		}
+	]
+}
