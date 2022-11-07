@@ -4,31 +4,36 @@
 			"id": 63555,
 			"name": "Addison Allen",
 			"completedCredits": 150.4,
-			"averageGrade": 16.1
+			"averageGrade": 16.1,
+			"birthdate":"2022-10-31"
 		},
 		{
 			"id": 6351493,
 			"name": "Jo Rosales",
 			"completedCredits": 56.9,
-			"averageGrade": 9.1
+			"averageGrade": 9.1,
+			"birthdate":"2022-10-31"
 		},
 		{
 			"id": 635559508,
 			"name": "Kendall Stafford",
 			"completedCredits": 41.9,
-			"averageGrade": 8.2
+			"averageGrade": 8.2,
+			"birthdate":"2022-10-31"
 		},
 		{
 			"id": 635558,
 			"name": "Shawn Burke",
 			"completedCredits": 95.9,
-			"averageGrade": 13.1
+			"averageGrade": 13.1,
+			"birthdate":"2022-10-31"
 		},
 		{
 			"id": 635550,
 			"name": "Donovan Hutchinson",
 			"completedCredits": 70.3,
-			"averageGrade": 13.8
+			"averageGrade": 13.8,
+			"birthdate":"2022-10-31"
 		}
 	]
 }
